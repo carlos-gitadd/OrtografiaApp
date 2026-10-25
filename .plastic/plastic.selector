@@ -1,0 +1,4 @@
+repository "OrtografiaApp1.0/OrtografiaApp1.0@4674125886116@cloud"
+  path "/"
+    br "/main"
+    co "/main"
